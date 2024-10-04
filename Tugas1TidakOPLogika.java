@@ -18,6 +18,7 @@ public class Tugas1TidakOPLogika {
     } if (bil2 > bil3) {
         System.out.println("Bilangan terbesar: " + bil2);
     }
+    
     } else if (bil1 < bil3) {
         System.out.println("Bilangan terbesar adalah: " + bil3);
     } else {
